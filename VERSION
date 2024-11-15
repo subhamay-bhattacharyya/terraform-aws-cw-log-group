@@ -1,0 +1,15 @@
+# Version 1.0.0
+
+Initial release of the Terraform AWS CloudWatch LogGroup module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 15-Nov-2024
+Updated: - 
+Description: This module creates This module creates a CloudWatch LogGroup using Terraform.
+
+
+## Features
+- Initial release of the Terraform AWS CloudWatch LogGroup module.
+- Creates a CloudWatch LogGroup.
+- The LogGroup is configurable.
+- Tag the LogGroup job.
